@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## Intro
 
-You can use the [editor on GitHub](https://github.com/ohintaek/ohintaek.github.com/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+POST-STAR는 사람들간의 의사소통을 위한 업무용 메시징 도구입니다.
+같은 공간에서 빠르게 다른사람에게 메시지나 파일을 전송할 수 있습니다.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Download
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+준비중...
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## Abous us
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ohintaek/ohintaek.github.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+flytaek@gmail.com
